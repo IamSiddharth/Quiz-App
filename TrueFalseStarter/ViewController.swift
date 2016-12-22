@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  TrueFalseStarter
 //
-//  Created by Pasan Premaratne on 3/9/16.
-//  Copyright © 2016 Treehouse. All rights reserved.
+//  Created by Siddharth Doshi on 3/9/16.
+//  Copyright © 2016 FullOn Apps. All rights reserved.
 //
 
 import UIKit
